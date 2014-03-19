@@ -1,5 +1,19 @@
 .site {
-  background-color: #00F;
+  background-color: #0040A0;
+  color: white;
   max-width: 960px;
   margin: 0 auto;
+}
+
+a {
+  color: yellow;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
 }
